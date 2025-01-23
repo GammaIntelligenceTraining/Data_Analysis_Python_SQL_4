@@ -1,2 +1,0 @@
-# Data_Analysis_Python_SQL_4
-Data_Analysis_Python_SQL_4
